@@ -7,6 +7,7 @@ main(void)
 while (count--)
 {
 func();
+count--;
 }
 return (0);
 }
