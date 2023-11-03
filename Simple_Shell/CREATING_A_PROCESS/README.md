@@ -1,0 +1,1 @@
+The system call fork creates a new child process, almost identical to the parent. Once fork successfully returns, two processes continue to run on the same program but with different stacks, data and heaps

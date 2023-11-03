@@ -1,0 +1,1 @@
+The system call execve allows a process to execute another program. Note that this system calls does load the new program into the current process memory in place of the previous program. On success execve does not return to continue the rest of the previous program.
